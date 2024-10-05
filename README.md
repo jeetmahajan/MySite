@@ -1,7 +1,11 @@
-<h1 style="font-family: Georgia, serif; ;font-size: 56px; color: #2c3e50;">/Abhijit Patil</h1>
+<h1 style="font-family: Georgia, serif; ;font-size: 56px; color: #2c3e50;">/jeet mahajan</h1>
+[Uploading Google Lens.html…]()
+
+![S20240030375_1_SOL - Copy](https://github.com/user-attachments/assets/d9a87464-99fa-4d2a-a4f8-421993f35129)
 
 
-![Header Image](https://github.com/user-attachments/assets/657233d4-4ea4-4300-a095-30b273524462)
+![Header Image]()
+[Uploading Google Lens.html…]()
 
 
 <p style="font-family: Georgia, serif; font-size: 16px; color: #2c3e50;">
